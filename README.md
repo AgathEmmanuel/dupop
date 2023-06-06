@@ -1,1 +1,1 @@
-# repop ( Repetitive Operations )
+# dupop ( Duplicate Operation )
